@@ -1,3 +1,3 @@
 # DSML Git Demo
 
-This is a git demo project for Scaler Oct & Aug cohort.
+This is a Git and GitHub demo project for Scaler Oct & Aug cohort.
